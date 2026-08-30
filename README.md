@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/247890972?v=4" width="132" alt="Leonardo Gobbi" />
-
 # Leonardo Gobbi
 
 ### Engenharia Elétrica · Dados · Analytics · Tecnologia
