@@ -14,20 +14,16 @@
   <rect width="1600" height="430" rx="20" fill="url(#paper)"/>
   <rect width="1600" height="430" rx="20" fill="url(#dots)"/>
 
-  <!-- Moldura editorial -->
   <rect x="62" y="56" width="1476" height="318" rx="2" fill="none" stroke="#3B3832" stroke-opacity="0.28" stroke-width="1.5"/>
   <line x1="62" y1="56" x2="1538" y2="56" stroke="#26231F" stroke-width="3"/>
 
-  <!-- Assinatura / linguagem do site -->
   <text x="92" y="96" fill="#5E584E" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="3">DE GOBBI — LEONARDO</text>
   <text x="1080" y="96" fill="#B5720A" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">ENGENHARIA · ANALYTICS · CONSULTORIA</text>
   <circle cx="1058" cy="91" r="4" fill="#B5720A"/>
 
-  <!-- Elemento gráfico principal -->
   <rect x="92" y="124" width="5" height="220" fill="#C37D0D"/>
   <rect x="112" y="124" width="1" height="220" fill="#3B3832" fill-opacity="0.18"/>
 
-  <!-- Conteúdo -->
   <text x="145" y="176" fill="#B5720A" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="5">LEONARDO DE GOBBI</text>
   <text x="145" y="246" fill="#171511" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="600">Engenharia · Dados · Tecnologia</text>
   <text x="145" y="286" fill="#625B50" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="1.15">Engenharia Elétrica  ·  Data &amp; Analytics  ·  Machine Learning</text>
@@ -35,15 +31,6 @@
   <line x1="145" y1="316" x2="820" y2="316" stroke="#B5720A" stroke-width="2"/>
   <text x="145" y="346" fill="#7D7468" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">UFSCAR  /  PORTFÓLIO  /  GITHUB  /  SÃO CARLOS, SP</text>
 
-  <!-- Monograma LG -->
-  <g transform="translate(1300 236)">
-    <circle r="108" fill="#F5F0E5" stroke="#27231E" stroke-opacity="0.18" stroke-width="2"/>
-    <text x="0" y="28" text-anchor="middle" fill="#171511" font-family="Georgia, 'Times New Roman', serif" font-size="104" letter-spacing="-10">LG</text>
-    <circle cx="74" cy="15" r="8" fill="#B5720A"/>
-    <rect x="-23" y="51" width="46" height="4" rx="2" fill="#B5720A"/>
-  </g>
-
-  <!-- Detalhe gráfico inspirado nos pontos do site -->
   <circle cx="1438" cy="346" r="3" fill="#B5720A"/>
   <circle cx="1450" cy="346" r="3" fill="#B5720A" fill-opacity="0.55"/>
   <circle cx="1462" cy="346" r="3" fill="#B5720A" fill-opacity="0.25"/>
