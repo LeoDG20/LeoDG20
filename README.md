@@ -1,84 +1,114 @@
 <div align="center">
 
-# 👋 Hi, I'm Leonardo Gobbi
+<img src="https://avatars.githubusercontent.com/u/247890972?v=4" width="140" alt="Leonardo Gobbi" />
 
-### Electrical Engineering Student • Data & Analytics • Technology
+# Leonardo Gobbi
 
-<a href="https://leonardodegobbi.com.br/">Portfolio</a> · <a href="https://www.linkedin.com/">LinkedIn</a> · <a href="mailto:leo.gobbi20@gmail.com">Email</a>
+### Electrical Engineering · Data & Analytics · Technology
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-leonardodegobbi.com.br-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leonardodegobbi.com.br/)
+[![GitHub](https://img.shields.io/badge/GitHub-LeoDG20-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeoDG20)
+[![Email](https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.gobbi20@gmail.com)
 
 </div>
 
 ---
 
-## About me
+## 👋 About me
 
-I'm an Electrical Engineering student at **Universidade Federal de São Carlos (UFSCar)**, interested in **Data, Analytics, Engineering and Technology**.
+I'm an **Electrical Engineering student at UFSCar** with a strong interest in **Data, Analytics, Consulting and Technology**.
 
-I enjoy turning complex problems into practical solutions, combining engineering fundamentals with programming, data analysis and software development.
+I like combining engineering fundamentals, programming and data analysis to turn complex problems into practical solutions. My academic path also includes an **international mobility experience in France** and undergraduate research focused on **speech technology and machine learning**.
 
-- 🎓 Electrical Engineering @ UFSCar
-- 📊 Interested in Data Analytics, Consulting and Technology
-- 🇫🇷 Academic mobility experience in France
-- 🔬 Undergraduate research in speech technology and machine learning
-- 🧩 GPA: 8.5
+<div align="center">
 
-## 🚀 Featured Project
+🎓 UFSCar &nbsp;·&nbsp; 📊 Data & Analytics &nbsp;·&nbsp; 🔬 Research & ML &nbsp;·&nbsp; 🇫🇷 France
+
+</div>
+
+---
+
+## 🧠 Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,matlab,git,github,sqlite,pytorch,sklearn" alt="Programming and engineering stack" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=excel,pandas,numpy,postgresql,powerbi" alt="Data and analytics stack" />
+
+</div>
+
+---
+
+## 🚀 Featured project
 
 ### Whisper Corpus Studio
 
-Desktop application developed in Python for the **curation of whispered speech corpora**, combining assisted phonetic segmentation, waveform and spectrogram visualization, annotation review, acoustic-model training and auditable/reproducible dataset export.
+Desktop application developed in **Python** for the curation of whispered-speech corpora, combining assisted phonetic segmentation, waveform and spectrogram visualization, annotation review, acoustic-model training and reproducible dataset export.
 
-**Tech:** Python · PySide6 · SQLite · DSP · Machine Learning
+**Highlights**
 
-🔗 [Repository](https://github.com/LeoDG20/whisper_corpus_studio)
+- 🎙️ Whispered-speech corpus curation
+- 📈 Waveform and spectrogram visualization
+- 🧩 Assisted segmentation with full undo
+- 🤖 Acoustic baseline and raw-audio inference
+- 🔍 Auditable and reproducible dataset exports
+- ✅ Automated quality gates and CI
 
-## 🛠️ Technologies
+**Stack:** `Python` · `PySide6` · `SQLite` · `DSP` · `Machine Learning`
 
-**Programming & Data**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![View project](https://img.shields.io/badge/View%20project-Whisper%20Corpus%20Studio-111827?style=for-the-badge&logo=github)](https://github.com/LeoDG20/whisper_corpus_studio)
 
-**Analytics**
+<img src="https://raw.githubusercontent.com/LeoDG20/whisper_corpus_studio/main/docs/screenshots/0_editor.png" width="88%" alt="Whisper Corpus Studio editor" />
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+</div>
 
-**Engineering & ML**
+---
 
-![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+## 📊 GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LeoDG20&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDG20&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=LeoDG20&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
 
 ## 🎓 Education
 
 **Universidade Federal de São Carlos — UFSCar**  
-Bachelor's Degree in Electrical Engineering  
+B.Sc. in **Electrical Engineering**  
 2021 – 2027/2028
 
 **Academic Mobility — France**  
-International academic experience in France, including study and cultural immersion.
+International academic experience during university studies.
 
-## 📌 What I'm looking for
+**GPA:** `8.5`
 
-I'm currently interested in opportunities involving:
+---
 
-- Data Analytics & Business Analytics
-- Data / BI
-- Consulting
-- Technology & Digital Transformation
-- Engineering and quantitative problem solving
+## 🎯 Currently interested in
 
-## 📫 Contact
+`Data Analytics` · `Business Analytics` · `BI` · `Consulting` · `Technology` · `Digital Transformation` · `Engineering`
 
-Feel free to reach out if you'd like to talk about **data, engineering, technology or potential opportunities**.
+---
+
+## 📫 Let's connect
+
+I'm open to conversations about **data, engineering, technology, analytics and opportunities**.
 
 <div align="center">
 
-**Thanks for visiting my profile!**
+### Thanks for visiting my profile! 👋
 
 </div>
