@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 430" role="img" aria-labelledby="title desc">
-  <title id="title">Leonardo De Gobbi — identidade visual</title>
-  <desc id="desc">Cabeçalho inspirado na identidade visual do portfólio de Leonardo De Gobbi.</desc>
+  <title id="title">Leonardo De Gobbi — GitHub</title>
+  <desc id="desc">Cabeçalho editorial inspirado na identidade visual do portfólio de Leonardo De Gobbi.</desc>
   <defs>
     <pattern id="dots" width="34" height="34" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.2" fill="#6F675A" fill-opacity="0.12"/>
+      <circle cx="2" cy="2" r="1.25" fill="#6F675A" fill-opacity="0.12"/>
     </pattern>
     <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#FFFDFC"/>
@@ -14,24 +14,26 @@
   <rect width="1600" height="430" rx="20" fill="url(#paper)"/>
   <rect width="1600" height="430" rx="20" fill="url(#dots)"/>
 
-  <rect x="62" y="56" width="1476" height="318" rx="2" fill="none" stroke="#3B3832" stroke-opacity="0.28" stroke-width="1.5"/>
+  <rect x="62" y="56" width="1476" height="318" rx="2" fill="none" stroke="#3B3832" stroke-opacity="0.25" stroke-width="1.5"/>
   <line x1="62" y1="56" x2="1538" y2="56" stroke="#26231F" stroke-width="3"/>
 
-  <text x="92" y="96" fill="#5E584E" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="3">DE GOBBI — LEONARDO</text>
-  <text x="1080" y="96" fill="#B5720A" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">ENGENHARIA · ANALYTICS · CONSULTORIA</text>
-  <circle cx="1058" cy="91" r="4" fill="#B5720A"/>
+  <text x="92" y="96" fill="#5E584E" font-family="IBM Plex Mono, Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="3">DE GOBBI — LEONARDO</text>
+  <circle cx="1060" cy="91" r="4" fill="#B5720A"/>
+  <text x="1080" y="96" fill="#B5720A" font-family="IBM Plex Mono, Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">ENGENHARIA · ANALYTICS · CONSULTORIA</text>
 
   <rect x="92" y="124" width="5" height="220" fill="#C37D0D"/>
-  <rect x="112" y="124" width="1" height="220" fill="#3B3832" fill-opacity="0.18"/>
 
-  <text x="145" y="176" fill="#B5720A" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="5">LEONARDO DE GOBBI</text>
-  <text x="145" y="246" fill="#171511" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="600">Engenharia · Dados · Tecnologia</text>
-  <text x="145" y="286" fill="#625B50" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="1.15">Engenharia Elétrica  ·  Data &amp; Analytics  ·  Machine Learning</text>
+  <text x="145" y="178" fill="#171511" font-family="Newsreader, Georgia, 'Times New Roman', serif" font-size="70" font-weight="600">Leonardo</text>
+  <text x="145" y="244" fill="#171511" font-family="Newsreader, Georgia, 'Times New Roman', serif" font-size="70" font-weight="600">De Gobbi</text>
+
+  <text x="145" y="284" fill="#B5720A" font-family="Newsreader, Georgia, 'Times New Roman', serif" font-size="22" font-weight="600" font-style="italic">Engenharia Elétrica  ·  Dados  ·  Analytics</text>
 
   <line x1="145" y1="316" x2="820" y2="316" stroke="#B5720A" stroke-width="2"/>
-  <text x="145" y="346" fill="#7D7468" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">UFSCAR  /  PORTFÓLIO  /  GITHUB  /  SÃO CARLOS, SP</text>
+  <text x="145" y="346" fill="#7D7468" font-family="IBM Plex Mono, Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">UFSCAR  /  SÃO CARLOS, SP  /  DISPONÍVEL PARA ESTÁGIO</text>
 
-  <circle cx="1438" cy="346" r="3" fill="#B5720A"/>
-  <circle cx="1450" cy="346" r="3" fill="#B5720A" fill-opacity="0.55"/>
-  <circle cx="1462" cy="346" r="3" fill="#B5720A" fill-opacity="0.25"/>
+  <g fill="#B5720A">
+    <circle cx="1430" cy="323" r="5"/>
+    <circle cx="1450" cy="323" r="3.5" fill-opacity="0.65"/>
+    <circle cx="1466" cy="323" r="2.5" fill-opacity="0.35"/>
+  </g>
 </svg>
