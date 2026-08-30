@@ -1,41 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 430" role="img" aria-labelledby="title desc">
   <title id="title">Leonardo De Gobbi — identidade visual</title>
-  <desc id="desc">Banner inspirado na identidade visual do portfólio de Leonardo De Gobbi.</desc>
+  <desc id="desc">Cabeçalho inspirado na identidade visual do portfólio de Leonardo De Gobbi.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0C0B0A"/>
-      <stop offset="1" stop-color="#17150F"/>
-    </linearGradient>
-    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M34 0H0V34" fill="none" stroke="#F5F2E8" stroke-opacity="0.045" stroke-width="1"/>
+    <pattern id="dots" width="34" height="34" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#6F675A" fill-opacity="0.12"/>
     </pattern>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="8" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFDFC"/>
+      <stop offset="1" stop-color="#F7F3EA"/>
+    </linearGradient>
   </defs>
 
-  <rect width="1600" height="420" rx="20" fill="url(#bg)"/>
-  <rect width="1600" height="420" rx="20" fill="url(#grid)"/>
+  <rect width="1600" height="430" rx="20" fill="url(#paper)"/>
+  <rect width="1600" height="430" rx="20" fill="url(#dots)"/>
 
-  <circle cx="1440" cy="-20" r="270" fill="#F2A93B" fill-opacity="0.06"/>
-  <circle cx="1510" cy="80" r="190" fill="#F2A93B" fill-opacity="0.035"/>
+  <!-- Moldura editorial -->
+  <rect x="62" y="56" width="1476" height="318" rx="2" fill="none" stroke="#3B3832" stroke-opacity="0.28" stroke-width="1.5"/>
+  <line x1="62" y1="56" x2="1538" y2="56" stroke="#26231F" stroke-width="3"/>
 
-  <rect x="84" y="70" width="7" height="280" rx="3.5" fill="#F2A93B" filter="url(#glow)"/>
-  <rect x="109" y="70" width="1" height="280" fill="#F5F2E8" fill-opacity="0.13"/>
+  <!-- Assinatura / linguagem do site -->
+  <text x="92" y="96" fill="#5E584E" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="3">DE GOBBI — LEONARDO</text>
+  <text x="1080" y="96" fill="#B5720A" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">ENGENHARIA · ANALYTICS · CONSULTORIA</text>
+  <circle cx="1058" cy="91" r="4" fill="#B5720A"/>
 
-  <text x="150" y="112" fill="#B5720A" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="5">DE GOBBI — LEONARDO</text>
+  <!-- Elemento gráfico principal -->
+  <rect x="92" y="124" width="5" height="220" fill="#C37D0D"/>
+  <rect x="112" y="124" width="1" height="220" fill="#3B3832" fill-opacity="0.18"/>
 
-  <text x="150" y="196" fill="#F5F2E8" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="600">Engenharia · Dados · Analytics</text>
-  <text x="150" y="242" fill="#D8D0BE" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="1.25">Engenharia Elétrica  •  Processos financeiros  •  Machine Learning</text>
+  <!-- Conteúdo -->
+  <text x="145" y="176" fill="#B5720A" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="5">LEONARDO DE GOBBI</text>
+  <text x="145" y="246" fill="#171511" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="600">Engenharia · Dados · Tecnologia</text>
+  <text x="145" y="286" fill="#625B50" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="1.15">Engenharia Elétrica  ·  Data &amp; Analytics  ·  Machine Learning</text>
 
-  <line x1="150" y1="284" x2="965" y2="284" stroke="#F2A93B" stroke-width="2"/>
-  <text x="150" y="322" fill="#A79E8C" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2">UFSCAR  /  PORTFÓLIO  /  GITHUB  /  SÃO CARLOS, SP</text>
+  <line x1="145" y1="316" x2="820" y2="316" stroke="#B5720A" stroke-width="2"/>
+  <text x="145" y="346" fill="#7D7468" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">UFSCAR  /  PORTFÓLIO  /  GITHUB  /  SÃO CARLOS, SP</text>
 
-  <g transform="translate(1370 210)">
-    <circle r="104" fill="#F5F0E5"/>
-    <text x="0" y="22" text-anchor="middle" fill="#171511" font-family="Georgia, 'Times New Roman', serif" font-size="96" letter-spacing="-8">LG</text>
-    <circle cx="70" cy="13" r="6.5" fill="#B5720A"/>
-    <rect x="-21" y="45" width="42" height="4" rx="2" fill="#B5720A"/>
+  <!-- Monograma LG -->
+  <g transform="translate(1300 236)">
+    <circle r="108" fill="#F5F0E5" stroke="#27231E" stroke-opacity="0.18" stroke-width="2"/>
+    <text x="0" y="28" text-anchor="middle" fill="#171511" font-family="Georgia, 'Times New Roman', serif" font-size="104" letter-spacing="-10">LG</text>
+    <circle cx="74" cy="15" r="8" fill="#B5720A"/>
+    <rect x="-23" y="51" width="46" height="4" rx="2" fill="#B5720A"/>
   </g>
+
+  <!-- Detalhe gráfico inspirado nos pontos do site -->
+  <circle cx="1438" cy="346" r="3" fill="#B5720A"/>
+  <circle cx="1450" cy="346" r="3" fill="#B5720A" fill-opacity="0.55"/>
+  <circle cx="1462" cy="346" r="3" fill="#B5720A" fill-opacity="0.25"/>
 </svg>
