@@ -1,137 +1,83 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LeoDG20/LeoDG20/main/assets/header.svg" width="100%" alt="Identidade visual de Leonardo De Gobbi" />
+# 👨🏻‍💻 Leonardo De Gobbi
 
-<br />
+### 🎓 Engenharia Elétrica | 📊 Dados & Analytics
 
-<a href="https://leonardodegobbi.com.br/"><img src="https://img.shields.io/badge/PORTFÓLIO-F2A93B?style=for-the-badge&labelColor=0C0B0A&logo=googlechrome&logoColor=F2A93B" alt="Portfólio" /></a>
-<a href="https://www.linkedin.com/in/leonardo-de-gobbi/"><img src="https://img.shields.io/badge/LINKEDIN-F2A93B?style=for-the-badge&labelColor=0C0B0A&logo=linkedin&logoColor=F2A93B" alt="LinkedIn" /></a>
-<a href="mailto:leo.gobbi20@gmail.com"><img src="https://img.shields.io/badge/CONTATO-F2A93B?style=for-the-badge&labelColor=0C0B0A&logo=gmail&logoColor=F2A93B" alt="Contato" /></a>
+**Engenharia Elétrica · UFSCar**
 
-</div>
+Sou estudante de Engenharia Elétrica na UFSCar e tenho interesse em **dados, analytics, tecnologia e resolução de problemas**. Gosto de combinar fundamentos de engenharia, programação e análise de dados para transformar problemas em soluções práticas.
 
-> ### **Engenharia para entender problemas. Dados para encontrar padrões. Tecnologia para transformar isso em solução.**
->
-> _Uma identidade construída em torno de precisão, clareza e aplicação prática._
-
----
-
-## ◈ Sobre mim
-
-Sou estudante de **Engenharia Elétrica na UFSCar**, com interesse em **Dados, Analytics, Consultoria e Tecnologia**.
-
-Meu perfil combina formação quantitativa, programação e análise de dados. Gosto de trabalhar em problemas que exigem **raciocínio estruturado, autonomia e transformação de ideias em soluções práticas**.
-
-Também tive uma **experiência de mobilidade acadêmica na França** e desenvolvo pesquisa em **tecnologia da fala e aprendizado de máquina**.
-
-<div align="center">
-
-|  🎓 **Formação**  |  📊 **Dados**  |  🔬 **Pesquisa**  |  🌎 **Internacional**  |
-|:---:|:---:|:---:|:---:|
-| Engenharia Elétrica<br>UFSCar | Analytics<br>BI | Speech Tech<br>Machine Learning | Mobilidade<br>França |
+<a href="https://leonardodegobbi.com.br/"><img src="https://img.shields.io/badge/🌐%20PORTFÓLIO-B5720A?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Portfólio" /></a>
+<a href="https://www.linkedin.com/in/leonardo-de-gobbi/"><img src="https://img.shields.io/badge/💼%20LINKEDIN-B5720A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
+<a href="mailto:leo.gobbi20@gmail.com"><img src="https://img.shields.io/badge/✉️%20E--MAIL-B5720A?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="E-mail" /></a>
 
 </div>
 
 ---
 
-## ◈ Minha identidade
+## 🧑🏻‍💻 Sobre mim
+
+🎓 **Engenharia Elétrica — UFSCar**  
+🇫🇷 **Mobilidade acadêmica na França**  
+🔬 **Iniciação científica em tecnologia da fala e machine learning**  
+📈 **Média acadêmica: 8,5**
+
+Tenho interesse em oportunidades nas áreas de **Data Analytics, Business Analytics, BI, Consultoria, Tecnologia e Engenharia**.
+
+---
+
+## 💻 Linguagens e Tecnologias
 
 <div align="center">
 
-| **COR** | **FUNÇÃO** |
-|:---:|:---|
-| `#0C0B0A` | Base escura |
-| `#17150F` | Superfícies |
-| `#F5F0E5` | Tipografia clara |
-| `#B5720A` | Destaque |
-| `#F2A93B` | Ênfase |
+<img src="https://skillicons.dev/icons?i=python,cpp,matlab,git,github,sqlite,pytorch,sklearn" alt="Linguagens e tecnologias" />
 
-**Editorial · Técnico · Minimalista · Preciso**
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-171511?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Pandas-B5720A?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-B5720A?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Excel-B5720A?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Power%20BI-B5720A?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI" />
+<img src="https://img.shields.io/badge/PySide6-171511?style=flat-square&logo=qt&logoColor=white" alt="PySide6" />
 
 </div>
 
 ---
 
-## ◈ Competências
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,matlab,git,github,sqlite,pytorch,sklearn" alt="Programação e engenharia" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LeoDG20&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=B5720A&icon_color=B5720A&text_color=C9C3B8&bg_color=0D1117" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDG20&layout=compact&langs_count=8&hide_border=true&title_color=B5720A&text_color=C9C3B8&bg_color=0D1117" alt="Principais linguagens" />
 
-<br />
+<br>
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,postgresql,powerbi" alt="Dados e analytics" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoDG20&hide_border=true&background=0D1117&ring=B5720A&fire=F2A93B&currStreakLabel=B5720A&sideLabels=C9C3B8&dates=6E675D&currStreakNum=F5F0E5&sideNums=F5F0E5" alt="Sequência de contribuições" />
 
 </div>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Dados & Analytics
-
-`Python`  
-`SQL`  
-`Pandas` · `NumPy`  
-`Excel` · `Power BI`  
-`Visualização de dados`
-
-</td>
-<td width="33%" valign="top">
-
-### Engenharia
-
-`MATLAB`  
-`DSP` · `Processamento de sinais`  
-`PySide6`  
-`SQLite`  
-`Git`
-
-</td>
-<td width="33%" valign="top">
-
-### ML & Tecnologia
-
-`Machine Learning`  
-`PyTorch`  
-`scikit-learn`  
-`Speech Technology`  
-`Desenvolvimento de software`
-
-</td>
-</tr>
-</table>
 
 ---
 
-## ◈ Projeto em destaque
+## 🚀 Projeto em destaque
 
 <div align="center">
 
-# 🎙️ Whisper Corpus Studio
+### 🎙️ Whisper Corpus Studio
 
-**Curadoria de fala sussurrada · DSP · Machine Learning · Software**
+**Curadoria de corpora de fala sussurrada**
+
+<a href="https://github.com/LeoDG20/whisper_corpus_studio"><img src="https://img.shields.io/badge/VER%20PROJETO-B5720A?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto" /></a>
 
 </div>
 
-Uma aplicação desktop desenvolvida em **Python** para curadoria de corpora de fala sussurrada. O projeto reúne **segmentação fonética assistida, waveform, espectrograma, revisão de anotações, treinamento de modelos acústicos e exportação de datasets auditáveis e reproduzíveis**.
-
-<table>
-<tr>
-<td>🎙️ <strong>Áudio</strong><br>Waveform + espectrograma</td>
-<td>🧩 <strong>Segmentação</strong><br>Fluxo assistido + undo</td>
-<td>🤖 <strong>Modelos</strong><br>Baseline + inferência</td>
-<td>🔍 <strong>Rastreabilidade</strong><br>Datasets reproduzíveis</td>
-</tr>
-</table>
+Aplicação desktop desenvolvida em **Python** para curadoria de fala sussurrada, com **segmentação fonética assistida, waveform, espectrograma, revisão de anotações, treinamento de modelos acústicos e exportação de datasets auditáveis e reproduzíveis**.
 
 <div align="center">
 
-<a href="https://github.com/LeoDG20/whisper_corpus_studio"><img src="https://img.shields.io/badge/ABRIR%20PROJETO-F2A93B?style=for-the-badge&labelColor=0C0B0A&logo=github&logoColor=F2A93B" alt="Abrir projeto" /></a>
-
-<br /><br />
-
-<img src="https://raw.githubusercontent.com/LeoDG20/whisper_corpus_studio/main/docs/screenshots/0_editor.png" width="94%" alt="Interface do Whisper Corpus Studio" />
+<img src="https://raw.githubusercontent.com/LeoDG20/whisper_corpus_studio/main/docs/screenshots/0_editor.png" width="90%" alt="Interface do Whisper Corpus Studio" />
 
 </div>
 
@@ -139,73 +85,25 @@ Uma aplicação desktop desenvolvida em **Python** para curadoria de corpora de 
 
 ---
 
-## ◈ Educação
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### UFSCar
-
-**Engenharia Elétrica**  
-2021 – 2027/2028  
-**Média: 8,5**
-
-Formação com base quantitativa, matemática, programação e engenharia de sistemas.
-
-</td>
-<td width="50%" valign="top">
-
-### Mobilidade acadêmica
-
-**França** 🇫🇷  
-Experiência internacional durante a graduação, com estudos em instituição francesa e vivência acadêmica no exterior.
-
-</td>
-</tr>
-</table>
-
----
-
-## ◈ Em que estou focado
+## 📌 Formação & Experiência
 
 <div align="center">
 
-### DATA ANALYTICS  ·  BUSINESS ANALYTICS  ·  BI
-
-### CONSULTORIA  ·  TECNOLOGIA  ·  ENGENHARIA
-
-### TRANSFORMAÇÃO DIGITAL  ·  MACHINE LEARNING
+| 🎓 **UFSCar** | 🇫🇷 **França** | 🔬 **Pesquisa** |
+|:---:|:---:|:---:|
+| Engenharia Elétrica<br>2021 – 2027/2028<br>Média **8,5** | Mobilidade acadêmica<br>experiência internacional | Tecnologia da fala<br>Machine Learning |
 
 </div>
 
-Busco oportunidades nas quais eu possa combinar **pensamento analítico, engenharia, dados e tecnologia** para resolver problemas reais e gerar impacto mensurável.
-
 ---
 
-## ◈ Contato
+## 🎯 Áreas de interesse
 
 <div align="center">
 
-<a href="https://leonardodegobbi.com.br/">
-<img src="https://img.shields.io/badge/🌐%20PORTFÓLIO-leonardodegobbi.com.br-F2A93B?style=for-the-badge&labelColor=0C0B0A" alt="Portfólio" />
-</a>
+`Data Analytics` · `Business Analytics` · `BI` · `Consultoria`
 
-<br /><br />
-
-<a href="https://www.linkedin.com/in/leonardo-de-gobbi/">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-Leonardo%20De%20Gobbi-F2A93B?style=for-the-badge&labelColor=0C0B0A" alt="LinkedIn" />
-</a>
-
-<br /><br />
-
-<a href="mailto:leo.gobbi20@gmail.com">
-<img src="https://img.shields.io/badge/✉️%20E--MAIL-leo.gobbi20@gmail.com-F2A93B?style=for-the-badge&labelColor=0C0B0A" alt="E-mail" />
-</a>
-
-<br /><br />
-
-<sub><strong>Aberto a conexões, projetos e oportunidades em dados, tecnologia, analytics e engenharia.</strong></sub>
+`Tecnologia` · `Engenharia` · `Machine Learning` · `Transformação Digital`
 
 </div>
 
@@ -213,8 +111,14 @@ Busco oportunidades nas quais eu possa combinar **pensamento analítico, engenha
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F2A93B&height=3&section=footer" width="100%" alt="Linha da identidade visual" />
+### 📫 Vamos conversar
 
-<sub>LEONARDO DE GOBBI · ENGENHARIA · DADOS · TECNOLOGIA</sub>
+<a href="https://leonardodegobbi.com.br/"><img src="https://img.shields.io/badge/PORTFÓLIO-F2A93B?style=for-the-badge&logo=googlechrome&logoColor=171511" alt="Portfólio" /></a>
+<a href="https://www.linkedin.com/in/leonardo-de-gobbi/"><img src="https://img.shields.io/badge/LINKEDIN-F2A93B?style=for-the-badge&logo=linkedin&logoColor=171511" alt="LinkedIn" /></a>
+<a href="mailto:leo.gobbi20@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-F2A93B?style=for-the-badge&logo=gmail&logoColor=171511" alt="E-mail" /></a>
+
+<br><br>
+
+<sub>Engenharia · Dados · Tecnologia</sub>
 
 </div>
